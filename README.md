@@ -7,9 +7,10 @@ built by [distriqt //](https://airnativeextensions.com)
 The RestartApp extension gives you the ability to force a restart of your application, terminating the current process and triggering a relaunch of the application. 
 
 
-### Features:
+### Features
 
-- Restart your running application
+- Restart your running application on the following platforms:
+  - Android
 - Single API interface - your code works across supported platforms with no modifications
 - Sample project code and ASDocs reference
 
