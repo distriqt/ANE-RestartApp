@@ -2,4 +2,4 @@
 
 | Extension | Version | Android Lib | iOS Lib |
 | --- | --- | --- | --- |
-| com.distriqt.RestartApp | 3.0.14 |  |  |
+| com.distriqt.RestartApp | 3.1.0 |  |  |
